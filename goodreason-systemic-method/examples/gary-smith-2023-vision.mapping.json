@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "title": "Gary Smith 2023 Vision mapped to GoodReason",
+    "repository": "goodreason-systemic-method",
+    "version": "0.1-method-kernel",
+    "author": "Eki Laitila",
+    "created": "2026-07-06",
+    "purpose": "Machine-readable demonstration of transforming a six-part systems engineering vision into an eight-function GoodReason α–Ω systemic model."
+  },
+  "soi": {
+    "name": "Gary Smith 2023 future systems engineering vision",
+    "type": "source_material",
+    "description": "Six vision statements concerning general human activity systems, heuristic validation, knowledge integration, systemic concepts, SE knowledge architecture and recognition of systems engineering."
+  },
+  "mapping": [
+    {
+      "goodreason_symbol": "α",
+      "source_element": "General human activity system",
+      "function": "purpose",
+      "interpretation": "Understand and organise the general human activity system through a framework based on general systems theories."
+    },
+    {
+      "goodreason_symbol": "π",
+      "source_element": "Core systemic concepts, drivers, pathologies, processes, principles, methods, tools and wisdom",
+      "function": "theory_principle",
+      "interpretation": "Provide the axiomatic and conceptual foundation of the systemic method."
+    },
+    {
+      "goodreason_symbol": "χ",
+      "source_element": "Input: isomorphism, data, logic, mathematics and environment",
+      "function": "information_environment",
+      "interpretation": "Make input, source material, isomorphic structures, measurable relations, logic and environmental information explicit."
+    },
+    {
+      "goodreason_symbol": "ΔΨ",
+      "source_element": "SE knowledge architecture: ISO 15288, SE Handbook and SEBOK",
+      "function": "renewal_pressure",
+      "interpretation": "Treat existing standards and SE knowledge architectures as developmental pressure requiring stronger epistemological organisation."
+    },
+    {
+      "goodreason_symbol": "β",
+      "source_element": "Validation by diverse and numerous heuristic models",
+      "function": "organisation_validation",
+      "interpretation": "Create an organised validation system using heuristic models, cases, comparisons and community review."
+    },
+    {
+      "goodreason_symbol": "φ",
+      "source_element": "Output: better solutions, interventions and design value",
+      "function": "design_solution",
+      "interpretation": "State what improved solution, intervention, design value or systemic result is produced."
+    },
+    {
+      "goodreason_symbol": "τ",
+      "source_element": "Integrate all knowledge systemically / Science 2.0 implementation",
+      "function": "integration_implementation",
+      "interpretation": "Integrate knowledge through technology, AI support, interoperability and modern scientific practice."
+    },
+    {
+      "goodreason_symbol": "Ω",
+      "source_element": "Recognition of systems engineering as a discipline",
+      "function": "feedback_developmental_arc",
+      "interpretation": "Use feedback, learning, legitimacy and disciplinary recognition as long-term developmental outcomes."
+    }
+  ],
+  "collaboration_targets": [
+    {
+      "target": "ISSS",
+      "role": "systems science community, feedback and recognition"
+    },
+    {
+      "target": "IFSR",
+      "role": "Science 2.0 and reflexive systems science"
+    },
+    {
+      "target": "INCOSE",
+      "role": "systems engineering standards and practice"
+    },
+    {
+      "target": "AI",
+      "role": "SuperJSON-guided modelling and validation"
+    },
+    {
+      "target": "Metascience",
+      "role": "organisation and renewal of science"
+    },
+    {
+      "target": "Science 2.0",
+      "role": "computational and collaborative modernisation of science"
+    }
+  ]
+}

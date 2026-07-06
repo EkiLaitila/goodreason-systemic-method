@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this method kernel, please cite it as below."
+title: "GoodReason Systemic Method"
+version: "0.1-method-kernel"
+date-released: "2026-07-06"
+authors:
+  - family-names: "Laitila"
+    given-names: "Eki"
+abstract: "A SOI-centred, SuperJSON-guided and AI-compatible epistemic modelling method for systems science."
+keywords:
+  - systems science
+  - GoodReason
+  - SuperJSON
+  - epistemic modelling
+  - Science 2.0
+  - AI-assisted systems inquiry
+references:
+  - type: article
+    title: "Axiomatic Systems Science - Geometry of Thinking"
+    authors:
+      - family-names: "Laitila"
+        given-names: "Eki"
+    journal: "Journal of the International Society for the Systems Sciences"
+    year: 2026
+    url: "https://journals.isss.org/index.php/jisss/article/view/4627"
